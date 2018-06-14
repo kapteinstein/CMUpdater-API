@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "filename": "lineage-14.1-20180610-UNOFFICIAL-Sultan-bacon.zip",
-      "url": "https://spaghettiprojecti.no/div/lineage-14.1-20180610-UNOFFICIAL-Sultan-bacon.zip",
-      "md5sum": "697c5eca60b5a2b5402a6bbe134087be",
-      "datetime": 1528630710,
+      "filename": "lineage-14.1-20180614-UNOFFICIAL-Sultan-bacon.zip",
+      "url": "https://github.com/kapteinstein/android_releases/releases/download/build/lineage-14.1-20180614-UNOFFICIAL-Sultan-bacon.zip",
+      "md5sum": "0903195dea3532ffaec2b26729719d79",
+      "datetime": 1529004745,
       "romtype": "unofficial",
       "version": "14.1"
     }
