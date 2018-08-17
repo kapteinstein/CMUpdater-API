@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "filename": "lineage-14.1-20180724-UNOFFICIAL-Sultan-bacon.zip",
-      "url": "https://spaghettiprojecti.no/lineageos/lineage-14.1-20180724-UNOFFICIAL-Sultan-bacon.zip",
-      "md5sum": "a95fc567e5e8abeaa45e4e1dc777efd1",
-      "datetime": 1532423744,
+      "filename": "lineage-14.1-20180817-UNOFFICIAL-Sultan-bacon.zip",
+      "url": "https://qwd.no/lineageos/lineage-14.1-20180817-UNOFFICIAL-Sultan-bacon.zip",
+      "md5sum": "d3fe46bf86a27ae282eacdb4290b5744",
+      "datetime": 1534527281,
       "romtype": "unofficial",
       "version": "14.1"
     }
